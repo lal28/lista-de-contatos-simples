@@ -51,10 +51,6 @@ lista-contatos-lite/
 └── README.md
 ```
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias! Abra uma issue ou envie um pull request.
-
 ## Licença
 
 Este projeto está sob a licença MIT.
