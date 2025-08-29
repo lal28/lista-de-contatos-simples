@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Lista de Contatos Lite</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Lista de Contatos Lite</h1>
+
+    <form id="form-contato" class="form-contato">
+      <input type="text" id="nome" placeholder="Nome" required>
+      <span class="erro" id="erro-nome"></span>
+      <input type="email" id="email" placeholder="E-mail" required>
+      <span class="erro" id="erro-email"></span>
+      <input type="text" id="telefone" placeholder="Telefone" required>
+      <span class="erro" id="erro-telefone"></span>
+      <button type="submit">Adicionar</button>
+    </form>
+
+    <h2>Contatos</h2>
+    <table id="tabela-contatos">
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>E-mail</th>
+          <th>Telefone</th>
+          <th>Ação</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="js/index.js"></script>
+</body>
+</html>
