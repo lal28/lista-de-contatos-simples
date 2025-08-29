@@ -43,13 +43,13 @@ cd lista-contatos-lite
 
 ```
 lista-contatos-lite/
-├── index.html
+├── index.html          # Página principal com formulário e tabela
 ├── css/
-│   └── style.css
-├── js/
-│   └── index.js
-└── README.md
+│   └── style.css       # Estilos da aplicação
+└── js/
+    └── index.js        # Lógica da aplicação (classe Contato e manipulação DOM)
 ```
+
 
 ## Licença
 
