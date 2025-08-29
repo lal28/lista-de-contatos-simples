@@ -2,6 +2,10 @@
 
 Uma aplicação web simples para cadastrar, listar e remover contatos, utilizando **JavaScript POO**, **HTML**, **CSS** e **localStorage** para persistência dos dados.
 
+## 🌐 Demo Online
+
+**[Acesse a aplicação aqui](https://lal28.github.io/lista-de-contatos-simples/)**
+
 ## Funcionalidades
 
 - Adicionar contatos (nome, e-mail e telefone)
@@ -47,6 +51,9 @@ lista-contatos-lite/
 └── README.md
 ```
 
+## Contribuição
+
+Sinta-se à vontade para contribuir com melhorias! Abra uma issue ou envie um pull request.
 
 ## Licença
 
